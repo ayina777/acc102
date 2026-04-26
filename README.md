@@ -60,7 +60,3 @@ To run the script, ensure you have the following libraries installed:
 * **Data vs. Narrative**: This project demonstrates that market narratives should always be verified with quantitative data rather than accepted at face value.
 
 ---
-
-**Note**: Please ensure the Excel file column headers match the ticker symbols exactly for accurate processing.
-
----
